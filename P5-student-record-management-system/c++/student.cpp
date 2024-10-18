@@ -89,3 +89,34 @@ Student::Student(
     // studentId@au.dk
     kontaktinfo_ = std::to_string(studentId_) + "@au.dk";
 }
+
+// ######## karakterblad #############
+ void Student::tilføjKarakter(std::string fag, int karakter)
+ {
+    karakterblad[fag] = karakter; 
+ }
+
+
+void Student::udskrivKarakterblad() const
+{
+    for (const auto& pair : karakterblad) {
+        std::cout << "Fag: " << pair.first << " - Karakter: " << pair.second << std::endl;
+    }
+  }
+
+
+void Student::printGennemsnit(const std::map<std::string, int>& karakterblad)
+{
+    if (karakterblad.empty()) {
+        std::cout << "Ingen karakterer tilgængelige." << std::endl;
+        return;
+    }
+
+    int sum = 0;
+    for (const auto& pair : karakterblad) {
+        sum += pair.second; // Summér alle karaktererne
+    }
+
+    double gennemsnit = static_cast<double>(sum) / karakterblad.size(); // Beregn gennemsnittet
+    std::cout << "Gennemsnit af karakterer: " << gennemsnit << std::endl;
+}
