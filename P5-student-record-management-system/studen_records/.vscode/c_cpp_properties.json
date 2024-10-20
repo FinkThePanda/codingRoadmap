@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/sqlite/"  // Sti til hvor du har placeret sqlite3.h
+      ],
+      "compilerPath": "C:/TDM-GCC-64/bin/g++.exe",  // Brug g++.exe for C++-projekter
+      "cStandard": "c11",
+      "cppStandard": "c++17",  // Sæt til c++17 eller hvad der passer til dit projekt
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
