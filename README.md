@@ -25,19 +25,18 @@ Der vil i løbet af projektet blive gjort brug af følgende teknologier
 - **MongoDB**: 
 
 # Checkliste for projekter
- ✅ **Project 1: Sorting and Searching Algorithms**
- 
- ✅ **Project 2: Simple Data Structures**
- ✅ **Project 3: Command-Line Calculator**
- ✅ **Project 4: Tic-Tac-Toe Game**
- ✅ **Project 5: Student Record Management System**
- ⏳ **Project 6:  Personal Portfolio Website**
- ⏳ **Project 7: To-Do List Application**
- ⏳ **Project 8: RESTful API for a Blog**
- ⏳ **Project 9: Pathfinding Algorithm Visualization**
- ⏳ **Project 10: Multithreaded Web Scraper**
- ⏳ **Project 11: E-commerce Website**
- ⏳ **Project 12: Custom Capstone Project**
+ ✅ **Project 1: Sorting and Searching Algorithms**  
+ ✅ **Project 2: Simple Data Structures**  
+ ✅ **Project 3: Command-Line Calculator**   
+ ✅ **Project 4: Tic-Tac-Toe Game**  
+ ✅ **Project 5: Student Record Management System**  
+ ⏳ **Project 6:  Personal Portfolio Website**  
+ ⏳ **Project 7: To-Do List Application**  
+ ⏳ **Project 8: RESTful API for a Blog**  
+ ⏳ **Project 9: Pathfinding Algorithm Visualization**  
+ ⏳ **Project 10: Multithreaded Web Scraper**  
+ ⏳ **Project 11: E-commerce Website**  
+ ⏳ **Project 12: Custom Capstone Project**  
  ------------------------------------------------------------
  #### Meaning
     ⏳ - Not started
