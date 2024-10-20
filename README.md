@@ -21,8 +21,9 @@ Der vil i løbet af projektet blive gjort brug af følgende teknologier
 - **PHP(Laravel)**: Robust og brugervenligt framework, godt til selvstændige projekter
 
 ### Databaser
-- **PostgreSQL**: 
-- **MongoDB**: 
+- **SQLite:** Simple og nem at arbejde med. Kan bruges til simple projekter  
+- **PostgreSQL:**  
+- **MongoDB:**  
 
 # Checkliste for projekter
  ✅ **Project 1: Sorting and Searching Algorithms**  
