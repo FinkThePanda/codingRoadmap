@@ -26,6 +26,7 @@ Der vil i løbet af projektet blive gjort brug af følgende teknologier
 
 # Checkliste for projekter
  ✅ **Project 1: Sorting and Searching Algorithms**
+ 
  ✅ **Project 2: Simple Data Structures**
  ✅ **Project 3: Command-Line Calculator**
  ✅ **Project 4: Tic-Tac-Toe Game**
